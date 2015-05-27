@@ -4,15 +4,15 @@
   <Category>HomeAutomation:</Category>
   <Name>homegenie</Name>
   <Description>
-    Homegenie open soure home automation code.
+    Homegenie open soure home automation code. bt
   </Description>
   <Overview>
-    Homegenie open soure home automation code.
+    Homegenie open soure home automation code. bt
   </Overview>
   <Support>http://lime-technology.com/forum/index.php?topic=38930.0</Support>
   <Registry>https://registry.hub.docker.com/u/jshridha/homegenie/</Registry>
   <GitHub>https://github.com/jshridha/docker-homegenie</GitHub>
-  <Repository>jshridha/docker-homegenie</Repository>
+  <Repository>jshridha/homegenie</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Networking>
